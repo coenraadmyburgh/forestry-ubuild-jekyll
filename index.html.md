@@ -7,6 +7,5 @@ content: content
 media:
   image: ''
   alt_text: ''
-published: false
 
 ---
